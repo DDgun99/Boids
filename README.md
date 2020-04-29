@@ -1,0 +1,5 @@
+# Boids Algorithm
+
+## Dependencies
+
+ - PyGame
