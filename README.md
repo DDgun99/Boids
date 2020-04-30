@@ -2,4 +2,3 @@
 
 ## Dependencies
 
- - PyGame
